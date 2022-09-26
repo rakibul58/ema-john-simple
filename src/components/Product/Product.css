@@ -36,8 +36,13 @@
     border: none;
     position: absolute;
     bottom: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 5px;
 }
 
 .btn-cart:hover{
     background-color: orangered;
 }
+
